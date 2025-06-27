@@ -1,0 +1,32 @@
+body{
+	border: 10px solid grey;
+	margin: 20px 20px;
+	padding: 10px 10px;
+	font-family: Source Sans pro;
+}
+.quote{
+	border-left: 4px solid grey;
+
+}
+
+h3{
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+h2{
+	color: #2c3e50;
+	
+}
+img{
+	
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+p{
+	text-align: justify;
+}
+.preface{
+	font-size: 20px;
+}
